@@ -55,7 +55,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                    text="✘ᴄʟɪᴄᴋ ғᴏʀ ɢɪғᴛ✘", url=f"{config.UPSTREAM_REPO}"
+                    text="✘ᴄʟɪᴄᴋ ғᴏʀ ɢɪғᴛ✘", url=f"https://t.me/pirokid"
                 )
         ],
      ]
